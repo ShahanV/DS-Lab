@@ -175,8 +175,7 @@ int main() {
         printf("Your choice: ");
         scanf("%d", &choice);
 
-        switch (choice)
-        {
+        switch(choice) {
         case 1:
             printf("Enter the data: ");
             scanf("%d", &data);
